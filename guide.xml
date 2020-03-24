@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 2 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Fox News [Brazil]">
+    <display-name lang="pt">Fox News [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="CNN BRASIL">
+    <display-name lang="pt">CNN BRASIL</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
   <channel id="AE">
     <display-name lang="pt">AE</display-name>
     <url>http://www.netcombo.com.br</url>
@@ -524,7 +532,7 @@
     <display-name lang="pt">REDE GOSPEL</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="">
+  <channel id="FILM ARTS">
     <display-name lang="pt">FILM ARTS</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
@@ -592,4 +600,296 @@
     <display-name lang="pt">BAND SP</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
+  <programme start="20200324020000 -0300" stop="20200324040000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">Fox &amp; Friends First</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200324040000 -0300" stop="20200324070000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">Fox &amp; Friends</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200324070000 -0300" stop="20200324100000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">America's Newsroom</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200324100000 -0300" stop="20200324110000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">Outnumbered</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200324110000 -0300" stop="20200324120000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">Outnumbered Overtime</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200324120000 -0300" stop="20200324130000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">The Daily Briefing with Dana Perino</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200324130000 -0300" stop="20200324140000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">Bill Hemmer Reports</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200324140000 -0300" stop="20200324150000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">Your World</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200324150000 -0300" stop="20200324160000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">The Five</title>
+    <category lang="pt">Variedades/Talk Show</category>
+  </programme>
+  <programme start="20200324160000 -0300" stop="20200324170000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">Special Report</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200324170000 -0300" stop="20200324180000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">The Story</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200324180000 -0300" stop="20200324190000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">Tucker Carlson Tonight</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200324190000 -0300" stop="20200324200000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">Hannity</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200324200000 -0300" stop="20200324210000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">The Ingraham Angle</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200324210000 -0300" stop="20200324220000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">Fox News @ Night</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200324220000 -0300" stop="20200324230000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">Tucker Carlson Tonight</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200324230000 -0300" stop="20200325000000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">Hannity</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200325000000 -0300" stop="20200325010000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">The Ingraham Angle</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200325010000 -0300" stop="20200325020000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">Fox News @ Night</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200325020000 -0300" stop="20200325040000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">Fox &amp; Friends First</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200325040000 -0300" stop="20200325070000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">Fox &amp; Friends</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200325070000 -0300" stop="20200325100000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">America's Newsroom</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200325100000 -0300" stop="20200325110000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">Outnumbered</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200325110000 -0300" stop="20200325120000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">Outnumbered Overtime</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200325120000 -0300" stop="20200325130000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">The Daily Briefing with Dana Perino</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200325130000 -0300" stop="20200325140000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">Bill Hemmer Reports</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200325140000 -0300" stop="20200325150000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">Your World</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200325150000 -0300" stop="20200325160000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">The Five</title>
+    <category lang="pt">Variedades/Talk Show</category>
+  </programme>
+  <programme start="20200325160000 -0300" stop="20200325170000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">Special Report</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200325170000 -0300" stop="20200325180000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">The Story</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200325180000 -0300" stop="20200325190000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">Tucker Carlson Tonight</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200325190000 -0300" stop="20200325200000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">Hannity</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200325200000 -0300" stop="20200325210000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">The Ingraham Angle</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200325210000 -0300" stop="20200325220000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">Fox News @ Night</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200325220000 -0300" stop="20200325230000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">Tucker Carlson Tonight</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200325230000 -0300" stop="20200326000000 -0300" channel="Fox News [Brazil]">
+    <title lang="pt">Hannity</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200324011000 -0300" stop="20200324041000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Expresso CNN</title>
+    <desc lang="pt">Informativo. O programa que é dividido em dois momentos importantes: Iniciando com o panorama do dia, seguido de análise de comentaristas e convidados.</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000096993_epg.jpg" />
+  </programme>
+  <programme start="20200324041000 -0300" stop="20200324042000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Newsroom - Ao Vivo</title>
+    <desc lang="pt">Informativo. Boletins curtos com a atualização das últimas notícias e o resumo do que foi importante no dia que passou, para você dormir bem informado.</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000096998_epg.jpg" />
+  </programme>
+  <programme start="20200324042000 -0300" stop="20200324055000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Jornal da CNN</title>
+    <desc lang="pt">Informativo. O telejornal exibido de segunda a sábado, traz os principais fatos do Brasil e do Mundo nos assuntos políticos e econômico.</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000096992_epg.jpg" />
+  </programme>
+  <programme start="20200324055000 -0300" stop="20200324060000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Newsroom - Ao Vivo</title>
+    <desc lang="pt">Informativo. Boletins curtos com a atualização das últimas notícias e o resumo do que foi importante no dia que passou, para você dormir bem informado.</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000096998_epg.jpg" />
+  </programme>
+  <programme start="20200324060000 -0300" stop="20200324070000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Agora CNN</title>
+    <desc lang="pt">Informativo. Taís Lopes apresenta o primeiro programa do dia na CNN Brasil, com jornalismo dinâmico, a apresentadora traz notícias do dia anterior e fatos do dia.</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000096994_epg.jpg" />
+  </programme>
+  <programme start="20200324070000 -0300" stop="20200324100000 -0300" channel="CNN BRASIL">
+    <title lang="pt">CNN Novo Dia</title>
+    <desc lang="pt">Informativo. Reinaldo Gottino junto de Taís Lopes aprofundam discussões sobre a política brasileira, rumos da economia e trazem uma cobertura de notícias internacionais.</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000096996_epg.jpg" />
+  </programme>
+  <programme start="20200324100000 -0300" stop="20200324130000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Live CNN Brasil</title>
+    <desc lang="pt">Informativo. O programa conta com a apresentação dos descontraídos Phelipe Siani e Mari Palma, que fazem coberturas factuais, análises leves e didáticas para transmitir a notícia de forma prioritária.</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000096997_epg.jpg" />
+  </programme>
+  <programme start="20200324130000 -0300" stop="20200324160000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Visão CNN</title>
+    <desc lang="pt">Informativo. Luciana Barreto e Cassius Zeilmann apresentam o jornal do início da tarde da CNN Brasil com dinamismo e muita discussão de temas quentes do momento.</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000097000_epg.jpg" />
+  </programme>
+  <programme start="20200324160000 -0300" stop="20200324183000 -0300" channel="CNN BRASIL">
+    <title lang="pt">CNN 360º</title>
+    <desc lang="pt">Informativo. O programa conta com giros 360º na web mostrando os destaques da política e economia nacional e internacional.</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000096995_epg.jpg" />
+  </programme>
+  <programme start="20200324183000 -0300" stop="20200324213000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Expresso CNN</title>
+    <desc lang="pt">Informativo. O programa que é dividido em dois momentos importantes: Iniciando com o panorama do dia, seguido de análise de comentaristas e convidados.</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000096993_epg.jpg" />
+  </programme>
+  <programme start="20200324213000 -0300" stop="20200324230000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Jornal da CNN</title>
+    <desc lang="pt">Informativo. O telejornal exibido de segunda a sábado, traz os principais fatos do Brasil e do Mundo nos assuntos políticos e econômico.</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000096992_epg.jpg" />
+  </programme>
+  <programme start="20200324230000 -0300" stop="20200324235500 -0300" channel="CNN BRASIL">
+    <title lang="pt">Realidade CNN</title>
+    <desc lang="pt">Informativo. Com duração de aproximadamente uma hora, o Realidade CNN traz diversos documentários com conteúdo da CNN Internacional, de produtoras mundialmente conhecidas e também produções nacionais.</desc>
+    <credits>
+      <actor>duração de aproximadamente uma hora</actor>
+      <actor>o Realidade CNN traz diversos documentários com conteúdo da CNN Internacional, de produtoras mundialmente conhecidas e também produções nacionais</actor>
+    </credits>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000096999_epg.jpg" />
+  </programme>
+  <programme start="20200324235500 -0300" stop="20200325000000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Newsroom - Ao Vivo</title>
+    <desc lang="pt">Informativo. Boletins curtos com a atualização das últimas notícias e o resumo do que foi importante no dia que passou, para você dormir bem informado.</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000096998_epg.jpg" />
+  </programme>
+  <programme start="20200325000000 -0300" stop="20200325010000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Amanpour</title>
+    <desc lang="pt">Informativo. Programa de entrevistas ancorado pela jornalista Christiane Amanpour focado na construção de uma agenda global de conversações.</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000070585_epg.jpg" />
+  </programme>
+  <programme start="20200325010000 -0300" stop="20200325011000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Newsroom - Ao Vivo</title>
+    <desc lang="pt">Informativo. Boletins curtos com a atualização das últimas notícias e o resumo do que foi importante no dia que passou, para você dormir bem informado.</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000096998_epg.jpg" />
+  </programme>
+  <programme start="20200325011000 -0300" stop="20200325041000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Expresso CNN</title>
+    <desc lang="pt">Informativo. O programa que é dividido em dois momentos importantes: Iniciando com o panorama do dia, seguido de análise de comentaristas e convidados.</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000096993_epg.jpg" />
+  </programme>
+  <programme start="20200325041000 -0300" stop="20200325042000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Newsroom - Ao Vivo</title>
+    <desc lang="pt">Informativo. Boletins curtos com a atualização das últimas notícias e o resumo do que foi importante no dia que passou, para você dormir bem informado.</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000096998_epg.jpg" />
+  </programme>
+  <programme start="20200325042000 -0300" stop="20200325055000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Jornal da CNN</title>
+    <desc lang="pt">Informativo. O telejornal exibido de segunda a sábado, traz os principais fatos do Brasil e do Mundo nos assuntos políticos e econômico.</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000096992_epg.jpg" />
+  </programme>
+  <programme start="20200325055000 -0300" stop="20200325060000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Newsroom - Ao Vivo</title>
+    <desc lang="pt">Informativo. Boletins curtos com a atualização das últimas notícias e o resumo do que foi importante no dia que passou, para você dormir bem informado.</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000096998_epg.jpg" />
+  </programme>
+  <programme start="20200325060000 -0300" stop="20200325070000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Agora CNN</title>
+    <desc lang="pt">Informativo. Taís Lopes apresenta o primeiro programa do dia na CNN Brasil, com jornalismo dinâmico, a apresentadora traz notícias do dia anterior e fatos do dia.</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000096994_epg.jpg" />
+  </programme>
+  <programme start="20200325070000 -0300" stop="20200325100000 -0300" channel="CNN BRASIL">
+    <title lang="pt">CNN Novo Dia</title>
+    <desc lang="pt">Informativo. Reinaldo Gottino junto de Taís Lopes aprofundam discussões sobre a política brasileira, rumos da economia e trazem uma cobertura de notícias internacionais.</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000096996_epg.jpg" />
+  </programme>
+  <programme start="20200325100000 -0300" stop="20200325130000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Live CNN Brasil</title>
+    <desc lang="pt">Informativo. O programa conta com a apresentação dos descontraídos Phelipe Siani e Mari Palma, que fazem coberturas factuais, análises leves e didáticas para transmitir a notícia de forma prioritária.</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000096997_epg.jpg" />
+  </programme>
+  <programme start="20200325130000 -0300" stop="20200325160000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Visão CNN</title>
+    <desc lang="pt">Informativo. Luciana Barreto e Cassius Zeilmann apresentam o jornal do início da tarde da CNN Brasil com dinamismo e muita discussão de temas quentes do momento.</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000097000_epg.jpg" />
+  </programme>
+  <programme start="20200325160000 -0300" stop="20200325183000 -0300" channel="CNN BRASIL">
+    <title lang="pt">CNN 360º</title>
+    <desc lang="pt">Informativo. O programa conta com giros 360º na web mostrando os destaques da política e economia nacional e internacional.</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000096995_epg.jpg" />
+  </programme>
+  <programme start="20200325183000 -0300" stop="20200325213000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Expresso CNN</title>
+    <desc lang="pt">Informativo. O programa que é dividido em dois momentos importantes: Iniciando com o panorama do dia, seguido de análise de comentaristas e convidados.</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000096993_epg.jpg" />
+  </programme>
+  <programme start="20200325213000 -0300" stop="20200325230000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Jornal da CNN</title>
+    <desc lang="pt">Informativo. O telejornal exibido de segunda a sábado, traz os principais fatos do Brasil e do Mundo nos assuntos políticos e econômico.</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000096992_epg.jpg" />
+  </programme>
+  <programme start="20200325230000 -0300" stop="20200325235500 -0300" channel="CNN BRASIL">
+    <title lang="pt">Realidade CNN</title>
+    <desc lang="pt">Informativo. Com duração de aproximadamente uma hora, o Realidade CNN traz diversos documentários com conteúdo da CNN Internacional, de produtoras mundialmente conhecidas e também produções nacionais.</desc>
+    <credits>
+      <actor>duração de aproximadamente uma hora</actor>
+      <actor>o Realidade CNN traz diversos documentários com conteúdo da CNN Internacional, de produtoras mundialmente conhecidas e também produções nacionais</actor>
+    </credits>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000096999_epg.jpg" />
+  </programme>
+  <programme start="20200325235500 -0300" stop="20200326000000 -0300" channel="CNN BRASIL">
+    <title lang="pt">Newsroom - Ao Vivo</title>
+    <desc lang="pt">Informativo. Boletins curtos com a atualização das últimas notícias e o resumo do que foi importante no dia que passou, para você dormir bem informado.</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000096998_epg.jpg" />
+  </programme>
 </tv>
